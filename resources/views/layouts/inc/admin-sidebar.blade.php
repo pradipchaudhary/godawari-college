@@ -17,6 +17,9 @@
                 <li><a href="{{ route('banner') }}" class="waves-effect">
                         <i class='bx bx-slider'></i> <span> Banner </span></a>
                 </li>
+                <li><a href="{{ route('testimonial') }}" class="waves-effect">
+                        <i class='bx bx-slider'></i> <span> Testimonial </span></a>
+                </li>
 
 
                 <li>
